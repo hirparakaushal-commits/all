@@ -70,7 +70,7 @@ The optional `from`/`to` anchors cut one unbroken passage out of a long post. Th
 
 | Platform | Collector | Access needed |
 | --- | --- | --- |
-| YouTube comments | `voc/collectors/youtube_api.py` (YouTube Data API v3: exact dates, comment permalinks) | `www.googleapis.com` plus an API key in `YT_API_KEY` |
+| YouTube comments | `voc/collectors/youtube_api.py` (YouTube Data API v3: exact dates, comment permalinks) | `youtube.googleapis.com` plus an API key (saved as a network secret, or in `YT_API_KEY`) |
 | Reddit, Amazon, TripAdvisor, Quora, Team-BHP, Trustpilot, MouthShut, Flipkart | To be written and tested against live pages once the hosts are reachable | The hosts listed below |
 | X, Facebook groups, Instagram, BuzzSumo, AnswerThePublic | Not collectable: these need a logged-in account or a paid plan | None available |
 

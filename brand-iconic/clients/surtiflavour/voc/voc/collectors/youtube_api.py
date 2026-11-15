@@ -21,7 +21,7 @@ import requests
 
 from ..models import RawRecord, make_record
 
-API_ROOT = "https://www.googleapis.com/youtube/v3"
+API_ROOT = "https://youtube.googleapis.com/youtube/v3"
 SKIPPABLE_REASONS = {"commentsDisabled", "videoNotFound", "forbidden"}
 
 
