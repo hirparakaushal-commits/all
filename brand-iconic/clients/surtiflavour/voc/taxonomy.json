@@ -1,0 +1,155 @@
+{
+  "_note": "Tagging vocabulary for the Surtiflavour Voice-of-Customer sheet. Segments follow the brand guide (section 10) plus the store-floor brief: business owners and senior corporate employees travelling abroad for business tours, family vacations and friends trips. Tags are AI-assigned; quotes never are.",
+  "segments": {
+    "S01": {
+      "label": "Business traveller abroad (veg)",
+      "definition": "Business owner or senior corporate employee on a work trip, trade fair or client visit abroad. Time-poor, often eating alone or with colleagues."
+    },
+    "S02": {
+      "label": "Family vacationer abroad (veg)",
+      "definition": "Family with children and/or elders on a self-planned international holiday."
+    },
+    "S03": {
+      "label": "Friends / couple leisure traveller abroad (veg)",
+      "definition": "Friend group, couple or honeymooners on a leisure trip abroad."
+    },
+    "S04": {
+      "label": "Jain / no onion-garlic traveller",
+      "definition": "Strict Jain, Swaminarayan, satvik or fasting traveller for whom 'vegetarian' is not enough."
+    },
+    "S05": {
+      "label": "Group-tour customer (package tour)",
+      "definition": "Traveller on an escorted package tour who paid for 'Indian meals included'."
+    },
+    "S06": {
+      "label": "Senior / parent visiting family abroad",
+      "definition": "Elderly parents flying to visit children abroad, usually with diet restrictions and long transits."
+    },
+    "S07": {
+      "label": "Student abroad",
+      "definition": "Indian student living abroad: tight budget, little time or skill to cook, homesick."
+    },
+    "S08": {
+      "label": "Parent / relative sending parcels",
+      "definition": "Family member in India packing or couriering food to someone abroad."
+    },
+    "S09": {
+      "label": "NRI / expat missing home food",
+      "definition": "Working professional or family settled abroad who misses regional Indian food."
+    },
+    "S10": {
+      "label": "Pilgrim / trekker / train traveller (India)",
+      "definition": "Char Dham and other yatras, Himalayan treks, long train journeys and remote road trips inside India."
+    },
+    "S11": {
+      "label": "Hostel student / bachelor (India)",
+      "definition": "Hostel, PG or bachelor living in India who wants something better than instant noodles."
+    },
+    "S12": {
+      "label": "Ready-to-eat buyer (home / office)",
+      "definition": "Buys ready-to-eat or instant meals for home, office or emergencies and judges taste, value and ingredients."
+    }
+  },
+  "themes": {
+    "T01": {
+      "label": "Pre-trip food anxiety",
+      "definition": "The 'what will we eat there?' worry before booking or packing."
+    },
+    "T02": {
+      "label": "Veg food scarcity at destination",
+      "definition": "Cannot find vegetarian food; survives on fries, bread, salad or fruit."
+    },
+    "T03": {
+      "label": "Hidden non-veg & purity fear",
+      "definition": "Fish sauce, egg, lard, shared oil or utensils; cannot trust the word 'vegetarian'; language barrier."
+    },
+    "T04": {
+      "label": "Jain / no onion-garlic constraints",
+      "definition": "Jain food unavailable; root vegetables, sunset rule, fasting days."
+    },
+    "T05": {
+      "label": "Cost of eating out abroad",
+      "definition": "Indian restaurants abroad are expensive; per-meal price shock."
+    },
+    "T06": {
+      "label": "Time lost hunting for food",
+      "definition": "Itinerary bent around finding food; long detours; late-night hunger."
+    },
+    "T07": {
+      "label": "Bland-food fatigue & craving",
+      "definition": "Craving dal-chawal, roti, spice or chai after days of unfamiliar food."
+    },
+    "T08": {
+      "label": "Carry-from-home workaround",
+      "definition": "Thepla, khakhra, ready-to-eat packs, instant noodles, pickles: what and how much they pack."
+    },
+    "T09": {
+      "label": "Cooking in the hotel room",
+      "definition": "Kettle, rice cooker, electric cooker or induction hacks; fear of smell, fire alarm or fines."
+    },
+    "T10": {
+      "label": "Hot water / kettle / heating access",
+      "definition": "No kettle or microwave; begging the hotel or a cafe for hot water."
+    },
+    "T11": {
+      "label": "Airport security & customs fear",
+      "definition": "What is allowed, declaration, seized food and fines."
+    },
+    "T12": {
+      "label": "Baggage weight & packing hassle",
+      "definition": "Food eating into the baggage allowance; bulk, leaks and smell in luggage."
+    },
+    "T13": {
+      "label": "Tour-operator food: promise vs reality",
+      "definition": "Group-tour Indian meals that are repetitive, late, far away or poor."
+    },
+    "T14": {
+      "label": "RTE taste & texture disappointment",
+      "definition": "'All taste the same', too oily, spicy or sour, rubbery, not like home."
+    },
+    "T15": {
+      "label": "RTE quantity & value for money",
+      "definition": "Portion too small for the price; not filling."
+    },
+    "T16": {
+      "label": "RTE health & ingredient worry",
+      "definition": "Preservatives, sodium, palm oil, acidity, shelf-life distrust, expiry."
+    },
+    "T17": {
+      "label": "Packaging & delivery failures",
+      "definition": "Leaked, puffed or damaged packs; near-expiry stock; late delivery."
+    },
+    "T18": {
+      "label": "Kids' & elders' food needs",
+      "definition": "Picky children, elderly or diabetic diets, need for familiar food."
+    },
+    "T19": {
+      "label": "Homesickness & taste of home",
+      "definition": "Missing ghar ka khana; food as emotional comfort."
+    },
+    "T20": {
+      "label": "Student budget & cooking fatigue",
+      "definition": "No time or skill to cook; groceries and eating out are expensive."
+    },
+    "T21": {
+      "label": "Parcels from home",
+      "definition": "Courier cost, customs, spoilage and what to send."
+    },
+    "T22": {
+      "label": "Yatra / trek / train food struggle",
+      "definition": "Hygiene fears, instant-noodle monotony, altitude, limited options."
+    },
+    "T23": {
+      "label": "Buying triggers & trust signals",
+      "definition": "What made them buy or recommend: tasting, reviews, shelf life, Jain label, price comparison."
+    },
+    "T24": {
+      "label": "Delight & desired outcome",
+      "definition": "'Felt like home', 'saved our trip': what a good solution feels like."
+    },
+    "T25": {
+      "label": "Social embarrassment & judgement",
+      "definition": "Being judged for carrying or cooking Indian food; pride versus shame."
+    }
+  }
+}
